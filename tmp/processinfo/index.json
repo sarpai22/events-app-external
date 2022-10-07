@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"processes":{"a597a42d-0d73-43ea-844e-85be21e2e405":{"parent":null,"children":[]}},"files":{"/home/user205/shared-repos/events-app-external/server.js":["a597a42d-0d73-43ea-844e-85be21e2e405"]},"externalIds":{}}
+=======
+{"processes":{"5ae53bbf-4cb9-4914-91dd-582db6054c3e":{"parent":null,"children":[]}},"files":{"/home/user207/events-app/external/server.js":["5ae53bbf-4cb9-4914-91dd-582db6054c3e"]},"externalIds":{}}
+>>>>>>> eeac53e2c2aa88787969e2f816a7adcae729a6b7
